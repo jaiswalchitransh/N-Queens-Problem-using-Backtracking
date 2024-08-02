@@ -1,4 +1,4 @@
-# N-Queens-Problem-using-Backtracking
+# N Queens Problem using Backtracking
 
 ## Table of Contents
 - [Project Overview](#project-overview)
